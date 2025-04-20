@@ -1,0 +1,12 @@
+{
+  "name": "exercicios-verificodigo",
+  "version": "1.0.0",
+  "description": "![Logo Verificódigo](/assets/logo.png \"Logo do Verificódigo\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
