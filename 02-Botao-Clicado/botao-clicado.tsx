@@ -11,7 +11,7 @@ Utilize o hook useState para criar uma variável de estado chamada contador que 
 Sua resposta
 */
 
-import { useState } from "react"
+import React, { useState } from "react"
 import { View, Button } from "react-native"
 
 export default function ContadorDeCliques(){
